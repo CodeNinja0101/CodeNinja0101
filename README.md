@@ -2,10 +2,10 @@
 
 ## Summary:
 
-Java Developer with 2.6 years of experience in designing, developing, and implementing scalable software solutions.
-Proficient in Java, Spring Framework, Hibernate, and microservices. Strong problem-solving skills and expertise in the
-SDLC, including system design, coding, and testing. Committed to continuous learning and delivering high-quality
-results.
+Java Developer skilled in designing, developing, and implementing scalable software solutions.
+Proficient in Java, Spring Framework, Hibernate, and microservices. Strong problem-solving
+skills and expertise in the SDLC, including system design, coding, and testing.
+Committed to continuous learning and delivering high-quality results.
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-153-00A5E0?style=flat-square&logo=github&logoColor=orange)
 
