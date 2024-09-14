@@ -7,7 +7,12 @@ Proficient in Java, Spring Framework, Hibernate, and microservices. Strong probl
 skills and expertise in the SDLC, including system design, coding, and testing.
 Committed to continuous learning and delivering high-quality results.
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-153-00A5E0?style=flat-square&logo=github&logoColor=orange)
+<p align="left" style="display: flex; align-items: center; gap: 7px;">
+    <a href="https://github.com/CodeNinja0101" target="_blank" rel="noreferrer" style="display: flex; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="30" height="30" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=CodeNinja0101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
