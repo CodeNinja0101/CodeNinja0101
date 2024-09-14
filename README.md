@@ -11,8 +11,9 @@ Committed to continuous learning and delivering high-quality results.
     <a href="https://github.com/CodeNinja0101" target="_blank" rel="noreferrer" style="display: flex; align-items: center;">
         <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="30" height="30" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=CodeNinja0101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=CodeNinja0101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" width="100" height="20" />
 </p>
+
 
 ---
 
